@@ -1,2 +1,1 @@
-# SimuladorDeCombateRPG
-Sistema de Combate RPG Interactivo en Java
+# Simulador de Combate RPG
