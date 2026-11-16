@@ -81,4 +81,17 @@ Gestiona la interfaz de usuario por consola mediante un ciclo `do-while` y manti
 1. Inicia el programa y selecciona la **Opción 1** para crear automáticamente a tu *Guerrero Novato* (`P1`).
 2. Selecciona la **Opción 2** para crear un rival personalizado (`P2`), por ejemplo: *"Dragón Oscuro"*, Vida: `120`, Ataque: `18`, Defensa: `6`.
 3. Selecciona la **Opción 3** para revisar la ficha técnica de ambos combatientes.
-4. Selecciona la **Opción 7** para presenciar la batalla automática hasta que uno se alce con la victoria.
+4. Selecciona la **Opción 8** para presenciar la batalla automática hasta que uno se alce con la victoria.
+
+
+## Demostración
+
+### Creación Personajes
+
+![Creacion personajes](./img/creacionPersonaje1.png)
+![Creacion personajes](./img/creacionPersonaje2.png)
+
+### Combate
+
+![Combate](./img/combate1.png)
+![Combate](./img/combate2.png)

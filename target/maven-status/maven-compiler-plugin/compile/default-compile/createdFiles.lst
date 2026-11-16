@@ -1,4 +1,8 @@
-com\mycompany\taller\simuladorcombate\Personaje.class
-com\mycompany\taller\simuladorcombate\SimuladorCombate.class
+com\mycompany\taller\simuladorcombate\Curable.class
 com\mycompany\taller\simuladorcombate\Main.class
 com\mycompany\taller\simuladorcombate\Batalla.class
+com\mycompany\taller\simuladorcombate\Guerrero.class
+com\mycompany\taller\simuladorcombate\Personaje.class
+com\mycompany\taller\simuladorcombate\SimuladorCombate.class
+com\mycompany\taller\simuladorcombate\Mejorable.class
+com\mycompany\taller\simuladorcombate\Mago.class
